@@ -1,0 +1,10 @@
+.place-card {
+  padding: 20px;
+}
+.place-img {
+  width: 350px;
+}
+.place-name {
+  color: #252627;
+  font-family: 'Roboto';
+}
